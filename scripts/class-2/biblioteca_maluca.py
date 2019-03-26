@@ -1,0 +1,5 @@
+substantivo = input("Por favor, insira um substantivo: ")
+adjetivo = input("Por favor, insira um adjetivo: ")
+verbo = input("Por favor, insira um verbo: ")
+print("Sua biblioteca maluca:")
+print(substantivo, adjetivo, verbo, "sobre o cachorro preguiçoso")

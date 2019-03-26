@@ -30,7 +30,7 @@
 
 ### 3. Gráficos com tartaruga?! (`Turtle` mais uma vez)
 
-> **_TODO_**
+> **_Mistério..._**
 
 
 ### 4. Variáveis, números e matemática <3
@@ -48,11 +48,11 @@
 
 ### 5. Loops são divertidos (Loops são divertidos, Loops são divertidos, Loops...) 
 
-> **_TODO_**
+> **_Mistério..._**
 
 ### 6. Só com uma (ou, talvez, mais) condição!
 
-> **_TODO_**
+> **_Mistério..._**
 
 ### 7. Finalmente jogos!
 
@@ -60,23 +60,23 @@
 
 7.2 Jokenpô!
 
-> **_TODO_**
+> **_Mistério..._**
 
 ### 8. Funções: Existe um nome pra isso.
 
-> **_TODO_**
+> **_Mistério..._**
 
 ### 9. Temporizadores e Animações: Assim como a Disney! 
 
-> **_TODO_**
+> **_Mistério..._**
 
 ### 10. Interações com o usuário: A diversão aumenta!
 
-> **_TODO_**
+> **_Mistério..._**
 
 ### 11. Programando jogos: Programar é divertido <3
 
-> **_TODO_**
+> **_Mistério..._**
 
 ## Referências
 - Livro _"Teach your kids to Code"_, Bryson Payne, 2015.
