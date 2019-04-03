@@ -1,5 +1,6 @@
 substantivo = input("Por favor, insira um substantivo: ")
 adjetivo = input("Por favor, insira um adjetivo: ")
 verbo = input("Por favor, insira um verbo: ")
+animal = input("Por favor, insira o nome de um animal")
 print("Sua biblioteca maluca:")
-print(substantivo, adjetivo, verbo, "sobre o cachorro preguiçoso")
+print(substantivo, adjetivo, verbo, "sobre o(a)", animal, "preguiçoso(a)")

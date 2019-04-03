@@ -30,7 +30,27 @@
 
 ### 3. Gráficos com tartaruga?! (`Turtle` mais uma vez)
 
-> **_Mistério..._**
+3.1 Uma tartaruga e um lápis.
+
+3.2 Como isso funciona??? 
+    - biblioteca/habilidade
+    - biblioteca = "Conjunto de código reutilizável"
+3.3 Modificando o espiral
+
+3.4 Uma opção ao `t.foward()`
+
+3.5 Adicionando cores...
+
+3.6 MAIS CORES...
+    - **módulo** ou **resto**
+
+3.7 CORES, CORES, CORES ...
+
+3.8 O poder de uma variável
+
+3.9 Desafio nosso de cada dia. (Setando variáveis, Conversando com a tartaruga, Um experimento?!)
+
+
 
 
 ### 4. Variáveis, números e matemática <3
