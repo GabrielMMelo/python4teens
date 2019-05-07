@@ -51,50 +51,54 @@
 3.9 Desafio nosso de cada dia. (Setando variáveis, Conversando com a tartaruga, Um experimento?!)
 
 
-
-
 ### 4. Variáveis, números e matemática <3
 
-4.1 Variáveis: Onde guardamos nossas coisas.
+4.1 Variáveis: Guardando informações de forma organizada.
 
-4.2 Números e matemática.
+4.2 Algumas regras...
 
-4.3 Strings: Textos em Python.
+4.4 Operadores matemáticos
 
-4.4 Listas: Mantendo tudo junto!
-
-4.5 O Python está fazendo meu dever de casa :O
+4.2 Desafio nosso de cada dia. (Uma calculadora para a pizzaria ComputerPizza)
 
 
-### 5. Loops são divertidos (Loops são divertidos, Loops são divertidos, Loops...) 
+### 5. [Strings, listas]
+5.1 Strings: Textos em Python.
 
-> **_Mistério..._**
+5.2 Listas: Mantendo tudo junto!
 
-### 6. Só com uma (ou, talvez, mais) condição!
+5.3 O Python está fazendo meu dever de casa :O
 
-> **_Mistério..._**
 
-### 7. Finalmente jogos!
-
-7.1 Jogo de adivinhação!
-
-7.2 Jokenpô!
+### 6. Loops são divertidos (Loops são divertidos, Loops são divertidos, Loops...) 
 
 > **_Mistério..._**
 
-### 8. Funções: Existe um nome pra isso.
+### 7. Só com uma (ou, talvez, mais) condição!
 
 > **_Mistério..._**
 
-### 9. Temporizadores e Animações: Assim como a Disney! 
+### 8. Finalmente jogos!
+
+8.1 Jogo de adivinhação!
+
+8.2 Jokenpô!
 
 > **_Mistério..._**
 
-### 10. Interações com o usuário: A diversão aumenta!
+### 9. Funções: Existe um nome pra isso.
 
 > **_Mistério..._**
 
-### 11. Programando jogos: Programar é divertido <3
+### 10. Temporizadores e Animações: Assim como a Disney! 
+
+> **_Mistério..._**
+
+### 11. Interações com o usuário: A diversão aumenta!
+
+> **_Mistério..._**
+
+### 12. Programando jogos: Programar é divertido <3
 
 > **_Mistério..._**
 
