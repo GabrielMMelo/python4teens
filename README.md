@@ -4,4 +4,12 @@
 A very beginning **Python** and **Programming** course for kids and teens. 💻💪
 
 #### repl.it
-[Click here! =D](https://repl.it/@GabrielMMelo/CEDET)
+![repl.it](https://repl.it/public/images/logo-small.png)
+
+[Click here to start coding! =D](https://repl.it/@GabrielMMelo/CEDET)
+
+
+#### Pydroid 3
+![Pydroid 3](https://lh3.googleusercontent.com/JB_pv_k38wActQpAdUeEwJCZOvRcnyCx5fTHFKVHbedXoVq1kzE9loFJQdCy28vPIg=s180-rw)
+
+[Download it and code wherever! :)](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=pt_BR)
