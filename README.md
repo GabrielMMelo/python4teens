@@ -3,6 +3,8 @@
 
 A very beginning **Python** and **Programming** course for kids and teens. 💻💪
 
+
+## Awesome tools :hammer: :wrench:
 #### repl.it
 ![repl.it](https://repl.it/public/images/logo-small.png)
 
